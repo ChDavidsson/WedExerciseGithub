@@ -29,6 +29,12 @@
 
             Sprint löpare2 = new Sprint();
             löpare2.Speed();
+
+            High_intensive workout3 = new High_intensive();
+            workout3.Puls();
+
+            Low_intensive workout4 = new Low_intensive();
+            workout4.Puls();
         }
     }
 }
