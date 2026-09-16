@@ -23,6 +23,12 @@
             workout2.Reps = 10;
             workout2.AddedWeight = 10;
             workout2.DisplayPullUps();
+
+            Marathon löpare1 = new Marathon();
+            löpare1.Speed();
+
+            Sprint löpare2 = new Sprint();
+            löpare2.Speed();
         }
     }
 }
